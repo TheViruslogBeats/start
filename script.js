@@ -1,4 +1,4 @@
-function calculater(a,b) {
+function calculate(a,b) {
     return a + b
 }
 
