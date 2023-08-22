@@ -1,3 +1,3 @@
-function calculate(a,b) {
+function calculater(a,b) {
     return a + b
 }
